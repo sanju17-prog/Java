@@ -33,6 +33,7 @@ public final class MapReduce {
 
         // Removing the last ',' if it exists
 	// sanjana inside sanj branch
+	// sanjana done something
         if (!result.isEmpty()) {
             result.setLength(result.length() - 1);
         }

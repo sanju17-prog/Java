@@ -17,7 +17,7 @@ public final class PalindromePrime {
         if (num % 2 == 0) {
             return false; // Even numbers > 2 are not prime
         }
-
+	//sanjana edit from branch
         for (int divisor = 3; divisor <= Math.sqrt(num); divisor += 2) {
             if (num % divisor == 0) {
                 return false;

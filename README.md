@@ -1,4 +1,4 @@
-hehehehehehehehe Algorithms - Java -- learning sanj
+hehehehehehehehe Algorithms - Java -- learning sanj namaste
 
 
 [![Build](https://github.com/TheAlgorithms/Java/actions/workflows/build.yml/badge.svg?branch=master)](https://github.com/TheAlgorithms/Java/actions/workflows/build.yml)
